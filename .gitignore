@@ -1,0 +1,17 @@
+log/*.log
+tmp
+tmp/**/*
+config/development.sphinx.conf
+public/files
+public/art_works/**/*
+pubic/UserFiles/**/*
+merbapp/log/merb*
+merbapp/tmp/*
+merbapp/files/**/*
+db/*.sqlite3
+db/sphinx/**/*
+.DS_Store
+public/.DS_Store
+BD*
+public/.DS_Store
+*.log
